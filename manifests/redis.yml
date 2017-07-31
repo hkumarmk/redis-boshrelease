@@ -1,5 +1,5 @@
 name: redis
-
+#
 instance_groups:
 - name: redis
   azs: [z1]
